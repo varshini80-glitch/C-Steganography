@@ -1,0 +1,13 @@
+# Compiled executables
+encode
+decode
+decoded
+
+# Generated images
+output.bmp
+
+# Windows metadata
+*:Zone.Identifier
+
+# Backup files
+*.save
